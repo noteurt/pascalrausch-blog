@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pascalrausch.me</title><link>https://pascalrausch.me/</link><description>Recent content on pascalrausch.me</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 26 Feb 2023 13:20:01 +0100</lastBuildDate><atom:link href="https://pascalrausch.me/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://pascalrausch.me/posts/my-first-post/</link><pubDate>Sun, 26 Feb 2023 13:20:01 +0100</pubDate><guid>https://pascalrausch.me/posts/my-first-post/</guid><description>
+First Blog Post done with *hugo* and the cool theme *hello-friend*.</description></item><item><title>About</title><link>https://pascalrausch.me/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pascalrausch.me/about/</guid><description>
+Hi there
+My name is pascal and this is my blog.
+Nice to meet yaaa!</description></item></channel></rss>
